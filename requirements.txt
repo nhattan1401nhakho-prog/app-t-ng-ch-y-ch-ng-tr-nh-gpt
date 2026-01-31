@@ -1,0 +1,6 @@
+﻿pyautogui
+pyperclip
+pynput
+pygetwindow
+pytesseract
+opencv-python
